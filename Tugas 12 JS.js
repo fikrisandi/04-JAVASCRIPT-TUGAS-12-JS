@@ -1,5 +1,5 @@
 function buahbuahan() {
-    var buah = ['Naga', 'jeruk', 'Anggur', 'Durian'];
+    var buah = ['Pisang','Jeruk','Apel','Mangga'];
     console.log(buah);
     buah.pop();
     console.log(buah);
